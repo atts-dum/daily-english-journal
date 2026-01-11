@@ -1,1 +1,1 @@
-# daily-english-Journal
+# daily-english-journal
