@@ -8,7 +8,7 @@ These entries were written before the current daily format was established.
 Unlike the current journal entries, the archived files include **only**:
 
 - the original text written by me
-- the corrected version produced with AI assistance
+- the corrected version produced with DeepL Translation and Write
 
 They do not include memos, reflections, or picked phrases.
 
