@@ -2,7 +2,7 @@
 
 This repository also contains an archive of past diary entries.
 
-The archived entries cover the period from **October 14, 2025, to January 15, 2026**.
+The archived entries cover the period from **October 14, 2025, to January 5, 2026**.
 
 These entries were written before the current daily format was established.
 Unlike the current journal entries, the archived files include **only**:
