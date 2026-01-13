@@ -21,4 +21,4 @@ Past entries are stored in the `archive` folder.
 New entries are published daily, one file per day.
 
 For detailed background and context,  
-please see the full README_EN or README_JP below.
+please see the full README_full or README_JP below.
