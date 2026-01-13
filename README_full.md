@@ -1,4 +1,4 @@
-# daily english journal  
+# daily-english-journal  
 ### A Public L2 English Learning Log from Japan (with AI Assistance)
 
 This repository is a public learning log of my daily English diary.
