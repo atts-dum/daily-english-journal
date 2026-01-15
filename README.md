@@ -1,24 +1,29 @@
-# daily-english-journal 
-### A Public L2 English Learning Log from Japan (with AI Assistance)
+# daily-english-journal
 
-This repository is a public learning log of my daily English journal.
+### 📢 A Live Case Study of AI-Mediated English Learning
+**Author:** A soon-to-be 70-year-old Japanese learner  
+**Theme:** Human-AI Symbiosis, Digital Aging, and L2 Fossilization
 
-I write my journal in English by myself first,  
-then revise it using AI tools (mainly DeepL Translation and Write).  
-Sometimes I rely on them too much. This is intentional and part of the record.
+---
 
-The purpose of this repository is not to show correct English,  
-but to document how a Japanese English learner thinks, feels,  
-and expresses daily life in English, with AI assistance.
+## 📝 Project Overview
+This repository documents a daily English diary process: **Self-Written Draft → AI Correction (DeepL) → Reflection.** It is not a display of "perfect English," but a raw, longitudinal record of a Japanese learner's psychological and linguistic struggles as he approaches his 70s.
 
-Each entry typically includes:
-- Original
-- Corrected
-- Memo (dum!)
-- Picked Phrase (optional)
+## 🎓 Value for Researchers & Educators
+* **For Linguists:** An open learner corpus showcasing persistent errors ("Fossilization") and Japanese-influenced syntax.
+* **For Anthropologists:** A record of "Digital Aging" and legacy-building through technology.
+* **For Teachers (ALT/JTE):** A rare window into the "real face" and internal barriers of adult Japanese learners.
+* **For AI Scholars:** Data on the "delta" (gap) between human output and AI-mediated communication (AIC).
 
-Past entries are stored in the `archive` folder.  
-New entries are published daily, one file per day.
+## 📂 Entry Structure
+1.  **Original:** Raw, unpolished English output.
+2.  **Corrected:** Revised version by AI tools.
+3.  **Memo (dum!):** Casual reflections on daily life and the learning process.
+4.  **Picked Phrase:** Useful expressions acquired.
 
-For detailed background and context,  
-please see the full README_full or README_JP below.
+## ⚖️ License
+Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+Researchers are free to analyze and quote this data with proper attribution.
+
+---
+**[View Full README for Detailed Background and Research Context](./README.md)**
