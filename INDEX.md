@@ -16,3 +16,5 @@ Ongoing daily diary entries published after the official start.
 Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Phrase**.
 
 ## 2026 January
+- [2026-01-06 - Earthquake occured](journal/2026-01-06-quake.md)
+- 
