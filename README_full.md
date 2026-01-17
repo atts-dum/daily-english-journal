@@ -24,15 +24,16 @@ On October 14, 2025, I began writing a diary in Apple Journal. This repository i
 
 ## For Researchers: An Open Learner Corpus
 
-This repository serves as an Open Learner Corpus. Researchers are invited to observe:
+I specifically invite English teachers (ALTs, JTEs, and instructors) working in Japanese schools to refer to this log.
 
-- **Fossilization:** Persistent grammatical and lexical mistakes that remain even after decades of study.
-- **Linguistic Identity:** Japanese-influenced thinking, word order, and cultural nuances.
-- **Human–AI Symbiosis:** The precise delta (difference) between my raw output and the AI-corrected text, illustrating how AI influences a learner's expression.
+Standard textbooks often fail to capture the “real face” of a Japanese learner—the hesitation, the specific psychological barriers, and the over-reliance on translation. This log provides insights into the gap between a learner's true intent and their actual output, and how AI can serve as a “wall-bouncing partner” (壁打ち相手) for long-term self-study.
+
+I also hope this log may be of interest to developers and designers of AI language tools.  
+The contrast between the Original and AI-corrected texts may offer practical insights into how learners actually use AI, where they depend on it, and how AI-mediated feedback shapes their expression over time.
 
 ---
 
-## For Educators and English Teachers in Japan
+## For Educators and English Teachers in Japan, and AI Tool Developeres
 
 I specifically invite English teachers (ALTs, JTEs, and instructors) working in Japanese schools to refer to this log.
 
