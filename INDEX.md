@@ -117,4 +117,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-01-15 - Articles](journal/2026-01-15.md)
 - [2026-01-16 - Cats fight](journal/2026-01-16.md)
 - [2026-01-17 - Sunny, but Yellowing](journal/2026-01-17.md)
-- 
+- [2026-01-18 - X Post](journal/2026-01-18.md)
