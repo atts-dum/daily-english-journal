@@ -7,7 +7,7 @@
 ---
 
 ## 📝 Project Overview
-This repository documents a daily English diary process: **Self-Written Draft → AI Correction (DeepL) → Reflection.** It is not a display of "perfect English," but a raw, longitudinal record of a Japanese learner's psychological and linguistic struggles as he approaches his 70s.
+This repository documents a daily English diary process: **Self-Written Draft → AI Correction (DeepL) → Reflection.** It is not a display of "perfect English," but a raw, longitudinal record of a Japanese learner's psychological and linguistic struggles as I approach my 70s.
 
 ## 🎓 Value for Researchers & Educators
 * **For Linguists:** An open learner corpus showcasing persistent errors ("Fossilization") and Japanese-influenced syntax.
