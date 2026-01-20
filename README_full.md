@@ -6,7 +6,7 @@ This is a daily English diary written by a Japanese learner and corrected with A
 
 This repository is a Public L2 English Learning Log and serves as a unique dataset for researchers in Digital Anthropology, Sociolinguistics, and AI-Mediated Communication (AIC).
 
-It documents the autoethnographic journey of a Japanese learner navigating the intersection of aging, digital legacy, and human–AI symbiosis, as he approaches the milestone of his 70th birthday.
+It documents the autoethnographic journey of a Japanese learner navigating the intersection of aging, digital legacy, and human–AI symbiosis, as I approach the milestone of my 70th birthday.
 
 ---
 
