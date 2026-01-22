@@ -121,4 +121,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-01-19 - Uncle leaved hospital](journal/2026-01-19.md)
 - [2026-01-20 - Snowfall?](journal/2026-01-20.md)
 - [2026-01-21 - 100th Time](journal/2026-01-21.md)
-- 
+- [2026-01-22 - Three more yeares](journal/2026-01-22.md)
