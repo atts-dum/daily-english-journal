@@ -10,7 +10,8 @@
 If this is your first visit, please begin here:
 
 - 📘 **Daily Entries (New Format: Journal)**  
-  → My current and ongoing diary format, designed for clearer reading and analysis.  
+　This journal format has been used since 2026.　　
+　→ My current and ongoing diary format, designed for clearer reading and analysis.  
   **[Go to /journal](./journal/)**
 
 - 📂 **Daily Entries (Legacy Archive)**  
