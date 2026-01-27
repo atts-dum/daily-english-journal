@@ -9,8 +9,12 @@
 ## 🚀 START HERE
 If this is your first visit, please begin here:
 
-- 📂 **Daily Entries (Archive)**  
-  → The chronological diary data (original, corrected, memo).  
+- 📘 **Daily Entries (New Format: Journal)**  
+  → My current and ongoing diary format, designed for clearer reading and analysis.  
+  **[Go to /journal](./journal/)**
+
+- 📂 **Daily Entries (Legacy Archive)**  
+  → Earlier chronological entries in the original format.  
   **[Go to /archive](./archive/)**
 
 - 🧭 **Project Index / Navigation**  
