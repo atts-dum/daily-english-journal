@@ -10,7 +10,7 @@
 If this is your first visit, please begin here:
 
 - 📘 **Daily Entries (New Format: Journal)**  
- This journal format has been used since 2026.　　
+ This journal format has been used since 2026.  
  → My current and ongoing diary format, designed for clearer reading and analysis.  
   **[Go to /journal](./journal/)**
 
