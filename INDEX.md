@@ -126,3 +126,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-01-24 - Forgotten Subscription](journal/2026-01-24.md)
 - [2026-01-25 - The depths of cold](journal/2026-01-25.md)
 - [2026-01-26 - Time to start?](journal/2026-01-26.md)
+- [2026-01-27 - Don’t say that!](journal/2026-01-27.md)
