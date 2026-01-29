@@ -42,7 +42,7 @@ It is not a display of "perfect English," but a raw, longitudinal record of a Ja
 1. **Original 🤔:** Raw, unpolished English output.
 2. **Corrected 🤖:** Revised version by AI tools.
 3. **Memo (dum!):** Casual reflections on daily life and the learning process, written in Japanese. English translations are also provided.  🤖
-4. **Picked Phrase:** Useful expressions acquired. English translation is also available.  🤖
+4. **Picked Phrase:** Useful expressions acquired. English translations as well.  🤖
 
 ## ⚖️ License
 Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
