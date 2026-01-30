@@ -129,3 +129,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-01-27 - Don’t say that!](journal/2026-01-27.md)
 - [2026-01-28 - A short memory](journal/2026-01-28.md)
 - [2026-01-29 - Might be panic?](journal/2026-01-29.md)
+- [2026-01-30 - Britain](journal/2026-01-30.md)
