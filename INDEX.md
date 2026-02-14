@@ -146,3 +146,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-11 - Winter Sports](journal/2026-02-11.md)
 - [2026-02-12 - Anniversary](journal/2026-02-12.md)
 - [2026-02-13 - Orion](journal/2026-02-13.md)
+- [2026-02-14 - Pillow replacement](journal/2026-02-14.md)
