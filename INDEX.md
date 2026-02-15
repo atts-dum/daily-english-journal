@@ -148,3 +148,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-13 - Orion](journal/2026-02-13.md)
 - [2026-02-14 - Pillow replacement](journal/2026-02-14.md)
 - [2026-02-15 - Copilot, also wonderful](journal/2026-02-15.md)
+- [2026-02-16 - My weaknesses in English](journal/2026-02-16.md)
