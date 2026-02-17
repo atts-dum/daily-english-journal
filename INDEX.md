@@ -150,3 +150,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-15 - Copilot, also wonderful](journal/2026-02-15.md)
 - [2026-02-16 - My weaknesses in English](journal/2026-02-16.md)
 - [2026-02-17 - Delivery location](journal/2026-02-17.md)
+- [2026-02-18 - Final push](journal/2026-02-18.md)
