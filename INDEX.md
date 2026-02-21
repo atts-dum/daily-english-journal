@@ -154,5 +154,5 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-19 - User hospitalization](journal/2026-02-19.md)
 - [2026-02-20 - Things to do when getting up early](journal/2026-02-20.md)
 - [2026-02-21 - My Cars](journal/2026-02-21.md)
-- [2026-02-22 - Going fishing with S-chan](journal/2026-02-21.md)
+- [2026-02-22 - Going fishing with S-chan](journal/2026-02-22.md)
 
