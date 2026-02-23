@@ -155,4 +155,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-20 - Things to do when getting up early](journal/2026-02-20.md)
 - [2026-02-21 - My Cars](journal/2026-02-21.md)
 - [2026-02-22 - Going fishing with S-chan](journal/2026-02-22.md)
-
+- [2026-02-23 - Real Estate Broker License Exam](journal/2026-02-23.md)
