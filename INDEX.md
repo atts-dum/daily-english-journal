@@ -157,3 +157,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-22 - Going fishing with S-chan](journal/2026-02-22.md)
 - [2026-02-23 - Real Estate Broker License Exam](journal/2026-02-23.md)
 - [2026-02-24 - 5th Year of Anger](journal/2026-02-24.md)
+- [2026-02-25 - It’s raining](journal/2026-02-25.md)
