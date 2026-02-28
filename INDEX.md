@@ -160,3 +160,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-02-25 - It’s raining](journal/2026-02-25.md)
 - [2026-02-26 - Worries about overspending](journal/2026-02-26.md)
 - [2026-02-27 - Slow start](journal/2026-02-27.md)
+- [2026-02-28 - My Reading Habits](journal/2026-02-28.md)
