@@ -164,3 +164,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 
 ## 2026 March
 - [2026-03-01 - Just one more step](journal/2026-03-01.md)
+- [2026-03-02 - The Beginning of the Paralympics](journal/2026-03-02.md)
