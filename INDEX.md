@@ -170,3 +170,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-05 - Game brain](journal/2026-03-05.md)
 - [2026-03-06 - Ants on the ground](journal/2026-03-06.md)
 - [2026-03-07 - Don’t rush](journal/2026-03-07.md)
+- [2026-03-08 - Who takes the real estate exam?](journal/2026-03-08.md)
