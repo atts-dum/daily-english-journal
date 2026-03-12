@@ -174,3 +174,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-09 - Three types of honey](journal/2026-03-09.md)
 - [2026-03-10 - Finally done!](journal/2026-03-10.md)
 - [2026-03-11 - Condolences](journal/2026-03-11.md)
+- [2026-03-12 - Laptops×2](journal/2026-03-12.md)
