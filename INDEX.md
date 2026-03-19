@@ -181,3 +181,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-16 - Next Steps in End-of-Life Planning](journal/2026-03-16.md)
 - [2026-03-17 - Resuming Exam Study](journal/2026-03-17.md)
 - [2026-03-18 - Buying a Chainsaw](journal/2026-03-18.md)
+- [2026-03-19 - It’s been a whole year!](journal/2026-03-19.md)
