@@ -184,3 +184,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-19 - It’s been a whole year!](journal/2026-03-19.md)
 - [2026-03-20 - Happy Birthday, Son](journal/2026-03-20.md)
 - [2026-03-21 - Citrus Fruits](journal/2026-03-21.md)
+- [2026-03-22 - 2100 kcal](journal/2026-03-22.md)
