@@ -189,3 +189,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-24 - Lazy me](journal/2026-03-24.md)
 - [2026-03-25 - Today’s Top Priority](journal/2026-03-25.md)
 - [2026-03-26 - A new family has moved in](journal/2026-03-26.md)
+- [2026-03-27 - Back to Siberia?](journal/2026-03-27.md)
