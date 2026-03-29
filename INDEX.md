@@ -191,3 +191,5 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-26 - A new family has moved in](journal/2026-03-26.md)
 - [2026-03-27 - Back to Siberia?](journal/2026-03-27.md)
 - [2026-03-28 - Dental Cleaning](journal/2026-03-28.md)
+- [2026-03-29 - Watching  soccer](journal/2026-03-29.md)
+- 
