@@ -194,3 +194,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-03-29 - Watching  soccer](journal/2026-03-29.md)
 - [2026-03-30 - Cheating is not allowed, but…](journal/2026-03-30.md)
 - [2026-03-31 - 8 hours later](journal/2026-03-31.md)
+
+## 2026 April
+- [2026-04-01 - Let’s head to work!](journal/2026-04-01.md)
