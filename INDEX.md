@@ -198,3 +198,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 ## 2026 April
 - [2026-04-01 - Let’s head to work!](journal/2026-04-01.md)
 - [2026-04-02 - Taking pictures](journal/2026-04-02.md)
+- [2026-04-03 - A series of near misses](journal/2026-04-03.md)
