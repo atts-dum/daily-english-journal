@@ -200,3 +200,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-02 - Taking pictures](journal/2026-04-02.md)
 - [2026-04-03 - A series of near misses](journal/2026-04-03.md)
 - [2026-04-04 - A lazy day](journal/2026-04-04.md)
+- [2026-04-05 - Let’s start taking pictures!](journal/2026-04-05.md)
