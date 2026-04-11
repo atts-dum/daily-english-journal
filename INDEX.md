@@ -206,3 +206,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-08 - Congratulations! S-chan](journal/2026-04-08.md)
 - [2026-04-09 - Coming Back from Setback](journal/2026-04-09.md)
 - [2026-04-10 - Plans for the weekends](journal/2026-04-10.md)
+- [2026-04-11 - Body fat % not go down](journal/2026-04-11.md) 
