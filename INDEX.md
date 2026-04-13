@@ -207,4 +207,5 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-09 - Coming Back from Setback](journal/2026-04-09.md)
 - [2026-04-10 - Plans for the weekends](journal/2026-04-10.md)
 - [2026-04-11 - Body fat % not go down](journal/2026-04-11.md)
-- [2026-04-12 - Hiking in the nearby mountain](journal/2026-04-12.md) 
+- [2026-04-12 - Hiking in the nearby mountain](journal/2026-04-12.md)
+- [2026-04-13 - I’m quite the complainer.](journal/2026-04-13.md)
