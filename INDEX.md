@@ -209,3 +209,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-11 - Body fat % not go down](journal/2026-04-11.md)
 - [2026-04-12 - Hiking in the nearby mountain](journal/2026-04-12.md)
 - [2026-04-13 - I’m quite the complainer.](journal/2026-04-13.md)
+- [2026-04-14 - The peonies bloomed](journal/2026-04-14.md)
