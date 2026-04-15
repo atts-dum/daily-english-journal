@@ -211,3 +211,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-13 - I’m quite the complainer.](journal/2026-04-13.md)
 - [2026-04-14 - The peonies bloomed](journal/2026-04-14.md)
 - [2026-04-15 - Smile for customeres](journal/2026-04-15.md)
+- [2026-04-16 - Y to Nerima](journal/2026-04-16.md)
