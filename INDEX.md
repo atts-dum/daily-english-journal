@@ -212,4 +212,5 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-14 - The peonies bloomed](journal/2026-04-14.md)
 - [2026-04-15 - Smile for customeres](journal/2026-04-15.md)
 - [2026-04-16 - Y to Nerima](journal/2026-04-16.md)
-- [2026-04-17 - Audible While Driving](journal/2026-04-17.md) 
+- [2026-04-17 - Audible While Driving](journal/2026-04-17.md)
+- [2026-04-18 - Welcome! S-chan](journal/2026-04-18.md)
