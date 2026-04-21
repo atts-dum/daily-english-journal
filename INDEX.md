@@ -216,4 +216,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-18 - Welcome! S-chan](journal/2026-04-18.md)
 - [2026-04-19 - The early bird](journal/2026-04-19.md)
 - [2026-04-20 - Dream about Markdown](journal/2026-04-20.md)
-- 
+- [2026-04-21 - Books for the Elderly](journal/2026-04-21.md)
