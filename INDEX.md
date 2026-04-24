@@ -219,3 +219,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-21 - Books for the Elderly](journal/2026-04-21.md)
 - [2026-04-22 - Beat the morning sluggishness](journal/2026-04-22.md)
 - [2026-04-23 - Don't get complacent](journal/2026-04-23.md)
+- [2026-04-24 - Keep up with the news](journal/2026-04-24.md)
