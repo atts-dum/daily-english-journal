@@ -221,3 +221,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-23 - Don't get complacent](journal/2026-04-23.md)
 - [2026-04-24 - Keep up with the news](journal/2026-04-24.md)
 - [2026-04-25 - What is No. 10?](journal/2026-04-25.md)
+- [2026-04-26 - Going for a drive with Yuko](journal/2026-04-26.md)
