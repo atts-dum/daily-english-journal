@@ -224,3 +224,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-26 - Going for a drive with Y](journal/2026-04-26.md)
 - [2026-04-27 - AI diary](journal/2026-04-27.md)
 - [2026-04-28 - Reading and Audible](journal/2026-04-28.md)
+- [2026-04-29 - Happy birthday, K!](journal/2026-04-29.md)
