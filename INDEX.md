@@ -226,3 +226,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-04-28 - Reading and Audible](journal/2026-04-28.md)
 - [2026-04-29 - Happy birthday, K!](journal/2026-04-29.md)
 - [2026-04-30 - Blood Test Results](journal/2026-04-30.md)
+
+## 2026 May
+- [2026-05-01 - Vacation](journal/2026-05-01.md)
