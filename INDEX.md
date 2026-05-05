@@ -232,3 +232,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-02 - Congratulations!](journal/2026-05-02.md)
 - [2026-05-03 - To the Weekend Clinic](journal/2026-05-03.md)
 - [2026-05-04 - N, you look well](journal/2026-05-04.md)
+- [2026-05-05 - Like the early bird](journal/2026-05-05.md)
