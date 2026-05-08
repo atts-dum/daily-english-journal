@@ -235,3 +235,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-05 - Like the early bird](journal/2026-05-05.md)
 - [2026-05-06 - The earthquake 15 minutes ago](journal/2026-05-06.md)
 - [2026-05-07 - Is it summer already?](journal/2026-05-07.md)
+- [2026-05-08 - Results of follow-up examination](journal/2026-05-08.md)
