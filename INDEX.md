@@ -241,3 +241,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-11 - Irritation](journal/2026-05-11.md)
 - [2026-05-12 - UHF?](journal/2026-05-12.md)
 - [2026-05-13 - Flowers in the Garden](journal/2026-05-13.md)
+- [2026-05-14 - So sleepy!](journal/2026-05-14.md)
