@@ -245,3 +245,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-15 - Listen to *Water Margin*](journal/2026-05-15.md)
 - [2026-05-16 - Weekend Rebound](journal/2026-05-16.md)
 - [2026-05-17 - Surprised by Y](journal/2026-05-17.md)
+- [2026-05-18 - Radio Calisthenics—the best!](journal/2026-05-18.md)
