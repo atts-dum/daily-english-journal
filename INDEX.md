@@ -249,3 +249,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-19 - Forgetting how to use the app!](journal/2026-05-19.md)
 - [2026-05-20 - Sunny days](journal/2026-05-20.md)
 - [2026-05-21 - Forgetting to check my blood pressure](journal/2026-05-21.md)
+- [2026-05-22 - Postoperative Examination](journal/2026-05-22.md)
