@@ -251,3 +251,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-21 - Forgetting to check my blood pressure](journal/2026-05-21.md)
 - [2026-05-22 - Postoperative Examination](journal/2026-05-22.md)
 - [2026-05-23 - Cute R-chan](journal/2026-05-23.md)
+- [2026-05-24 - Odawara Castle Site](journal/2026-05-24.md)
