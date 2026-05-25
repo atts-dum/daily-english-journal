@@ -253,3 +253,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-23 - Cute R-chan](journal/2026-05-23.md)
 - [2026-05-24 - Odawara Castle Site](journal/2026-05-24.md)
 - [2026-05-25 - Boys' Soccer](journal/2026-05-25.md)
+- [2026-05-26 - The difficulty of changing routine work.](journal/2026-05-26.md)
