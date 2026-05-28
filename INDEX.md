@@ -256,3 +256,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-26 - The difficulty of changing routine work.](journal/2026-05-26.md)
 - [2026-05-27 - Hard to lose weight](journal/2026-05-27.md)
 - [2026-05-28 - The Piano Has Arrived](journal/2026-05-28.md)
+- [2026-05-29 - Hey, DeepL! ](journal/2026-05-29.md)
