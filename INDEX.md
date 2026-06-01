@@ -259,3 +259,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-05-29 - Hey, DeepL!](journal/2026-05-29.md)
 - [2026-05-30 - The App Journal is amazing](journal/2026-05-30.md)
 - [2026-05-31 - Analysis of Health Data Trends from January to May](journal/2026-05-31.md)
+
+## 2026 June
+- [2026-06-01 - Typhoon Week?](journal/2026-06-01.md)
