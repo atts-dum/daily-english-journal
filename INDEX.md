@@ -262,3 +262,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 
 ## 2026 June
 - [2026-06-01 - Typhoon Week?](journal/2026-06-01.md)
+- [2026-06-02 - Typhoon Week?](journal/2026-06-02.md)
