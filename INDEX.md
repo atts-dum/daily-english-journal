@@ -264,3 +264,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-01 - Typhoon Week?](journal/2026-06-01.md)
 - [2026-06-02 - I'm starting to feel a little anxious.](journal/2026-06-02.md)
 - [2026-06-03 - A turtle on the road](journal/2026-06-03.md)
+- [2026-06-04 - The Law of “inertia(or force of habit)”](journal/2026-06-04.md)
