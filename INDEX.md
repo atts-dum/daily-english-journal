@@ -267,3 +267,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-04 - The Law of “inertia(or force of habit)”](journal/2026-06-04.md)
 - [2026-06-05 - Chest symptoms](journal/2026-06-05.md)
 - [2026-06-06 - Pickled plums](journal/2026-06-06.md)
+- [2026-06-07 - The Start of the Rainy Season](journal/2026-06-07.md)
