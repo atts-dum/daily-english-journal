@@ -275,3 +275,4 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-12 - Let's do my best today!](journal/2026-06-12.md)
 - [2026-06-13 - The discomfort in my chest was severe.](journal/2026-06-13.md)
 - [2026-06-14 - Pills, Music Videos and World Cup match](journal/2026-06-14.md)
+- [2026-06-15 - Go Japan!](journal/2026-06-15.md)
