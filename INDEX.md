@@ -277,5 +277,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-14 - Pills, Music Videos and World Cup match](journal/2026-06-14.md)
 - [2026-06-15 - Go Japan!](journal/2026-06-15.md)
 - [2026-06-16 - Air Conditioner Installation and iPhone Setup](journal/2026-06-16.md)
+- [2026-06-17 - Headache all day long](journal/2026-06-17.md)
 
 
