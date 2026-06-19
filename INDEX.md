@@ -280,5 +280,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-17 - Headache all day long](journal/2026-06-17.md)
 - [2026-06-18 - AI in My Life](journal/2026-06-18.md)
 - [2026-06-19 - The Effectiveness of Alcohol-Based Disinfectants](journal/2026-06-19.md)
+- [2026-06-20 - Happy Birthday, S-chan! ](journal/2026-06-20.md)
 
 
