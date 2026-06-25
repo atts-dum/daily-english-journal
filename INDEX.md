@@ -284,7 +284,8 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-21 - Let's rack up the points!](journal/2026-06-21.md)
 - [2026-06-22 - Triple Trouble](journal/2026-06-22.md)
 - [2026-06-23 - A Present Thief?](journal/2026-06-23.md)
-- [2026-06-24 - Near Miss ](journal/2026-06-24.md)
+- [2026-06-24 - Near Miss](journal/2026-06-24.md)
+- [2026-06-25 - EQ Early Warning System](journal/2026-06-25.md)
   
 
 
