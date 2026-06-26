@@ -287,6 +287,5 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-24 - Near Miss](journal/2026-06-24.md)
 - [2026-06-25 - EQ Early Warning System](journal/2026-06-25.md)
 - [2026-06-26 - A Half-Baked Birthday Present](journal/2026-06-26.md)
-  
 
 
