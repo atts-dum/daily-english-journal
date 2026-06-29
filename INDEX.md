@@ -290,5 +290,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-27 - I have to get ready.](journal/2026-06-27.md)
 - [2026-06-28 - Wild Birds vs. Y](journal/2026-06-28.md)
 - [2026-06-29 - Be ready?](journal/2026-06-29.md)
+- [2026-06-30 - A Downcast Morning?](journal/2026-06-30.md)
 
 
