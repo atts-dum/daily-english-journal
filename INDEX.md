@@ -291,6 +291,10 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-06-28 - Wild Birds vs. Y](journal/2026-06-28.md)
 - [2026-06-29 - Be ready?](journal/2026-06-29.md)
 - [2026-06-30 - A Downcast Morning?](journal/2026-06-30.md)
+
+## 2026 July
 - [2026-07-07 - Resuming for a while, then stopping again](journal/2026-07-07.md)
+- [2026-07-08 - Curiosity](journal/2026-07-08.md)
+- [2026-07-09 - Sunshine](journal/2026-07-09.md)
   
 
