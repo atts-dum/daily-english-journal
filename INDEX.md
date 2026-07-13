@@ -299,5 +299,6 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-07-10 - 200 umeboshi](journal/2026-07-10.md)
 - [2026-07-11 - Seniors' Sale](journal/2026-07-11.md)
 - [2026-07-12 - Selling My Book Collection](journal/2026-07-12.md)
+- [2026-07-13 - Material Desire](journal/2026-07-13.md)
   
 
