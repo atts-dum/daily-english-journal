@@ -301,6 +301,7 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-07-12 - Selling My Book Collection](journal/2026-07-12.md)
 - [2026-07-13 - Material Desire](journal/2026-07-13.md)
 - [2026-07-14 - Web Surfing all day](journal/2026-07-14.md)
-- [2026-07-15 - iPad Apps ](journal/2026-07-15.md)
+- [2026-07-15 - iPad Apps](journal/2026-07-15.md)
+- [2026-07-16 - Pet Running Away](journal/2026-07-16.md)
   
 
