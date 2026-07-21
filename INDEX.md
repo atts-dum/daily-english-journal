@@ -307,4 +307,5 @@ Each file contains **Original**, **Corrected**, **Memo (dum!)**, and **Picked Ph
 - [2026-07-18 - Hospitalization Next Week](journal/2026-07-18.md)
 - [2026-07-19 - Third-Place Match](journal/2026-07-19.md)
 - [2026-07-20 - S-chan came over!](journal/2026-07-20.md)
+- [2026-07-21 - Bye-bye, Adobe, but...](journal/2026-07-21.md)
 
